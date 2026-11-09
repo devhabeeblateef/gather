@@ -6,7 +6,7 @@ Gather is an event participation and professional networking platform that conne
 
 Gather allows hosts to create events and invite participants through shareable links and QR codes.
 
-Atendees cna join events, creare professional profiles, discover other participants and connect through ther social links.
+Atendees can join events, creare professional profiles, discover other participants and connect through ther social links.
 
 ## Core features
 - Event creation and management
@@ -15,7 +15,7 @@ Atendees cna join events, creare professional profiles, discover other participa
 - Registered and guest participation
 - Attendee profiles and discovery
 - Search and filtering
-- Event capacity and waiting links
+- Event capacity and waiting lists
 
 ## Technology stacks
 
@@ -23,7 +23,7 @@ Atendees cna join events, creare professional profiles, discover other participa
 - Express.js
 - React
 - Node.js
-- Javascript
+- JavaScript
 
 ## Project Status
 
